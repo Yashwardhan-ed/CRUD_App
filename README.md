@@ -48,3 +48,49 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+# 📝 React Native Todo App
+
+A minimal and elegant Todo application built using **React Native**, supporting:
+
+- ✨ Light & Dark themes (toggleable)
+- 💾 Persistent todos and theme using `AsyncStorage`
+- 🎨 Dynamic styling via `ThemeContext`
+- 🔁 Smooth animated transitions with `react-native-reanimated`
+- 📱 Mobile-friendly UI with custom font support (Inter)
+
+---
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![light](screenshots/light.png) | ![dark](screenshots/dark.png) |
+
+---
+
+## 🚀 Features
+
+- Add, toggle, and delete todos
+- Stores all data in `AsyncStorage` (survives refresh/restart)
+- Light/Dark theme support using `Feather` icons
+- Custom font: Inter (via `@expo-google-fonts`)
+- Clean and responsive UI
+- Animated `FlatList` transitions using `react-native-reanimated`
+
+---
+
+## 🛠️ Technologies Used
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [AsyncStorage](https://github.com/react-native-async-storage/async-storage)
+- [@expo/vector-icons](https://docs.expo.dev/guides/icons/)
+- [@expo-google-fonts/inter](https://github.com/expo/google-fonts)
+
+---
+
+## 📂 Folder Structure
+
