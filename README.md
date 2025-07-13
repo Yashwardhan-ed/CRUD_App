@@ -60,16 +60,6 @@ A minimal and elegant Todo application built using **React Native**, supporting:
 - 🔁 Smooth animated transitions with `react-native-reanimated`
 - 📱 Mobile-friendly UI with custom font support (Inter)
 
----
-
-## 📸 Screenshots
-
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![light](screenshots/light.png) | ![dark](screenshots/dark.png) |
-
----
-
 ## 🚀 Features
 
 - Add, toggle, and delete todos
